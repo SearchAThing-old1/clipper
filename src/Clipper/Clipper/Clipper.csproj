@@ -10,7 +10,7 @@
     <PackageLicenseUrl>https://github.com/devel0/clipper/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/devel0/clipper</PackageProjectUrl>
     <RepositoryUrl />
-    <PackageTags>c# core</PackageTags>
+    <PackageTags>c# polygon clipping boolean</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>   
 
